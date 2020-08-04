@@ -1,4 +1,4 @@
 function sayGoodBye() {
 	'use strict';
-    console.log("Goodbye JSomeName : "+arrOfName[i]);
+    console.log("Goodbye "+arrOfName[i]);
 }

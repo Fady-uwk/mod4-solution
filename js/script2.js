@@ -1,4 +1,4 @@
 function sayHello() {
     'use strict';
-	console.log("Hello SomeName : " + arrOfName[i]);
+	console.log("Hello " + arrOfName[i]);
 }
